@@ -1,2 +1,2 @@
-console.log('From MasterChannel'); 
+console.log('From'); 
 console.log('From Feature/Channel'); 
