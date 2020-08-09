@@ -1,2 +1,2 @@
-console.log('From Develop'); 
+console.log('From'); 
 console.log('From Feature/Channel'); 
